@@ -9,6 +9,7 @@ There's two rebind method available:
 * Using fn+x, fn+c, fn+v, and fn+b as arrow keys while keeping the volume controls at the original combinations.
 
 Tested on ubuntu 18.04
+This method of rebinding doesn't support the key that hardwired to the board like fn keys, built-in custom macro, led control.
 
 #### ONLY WORKS ON LINUX!
 
