@@ -1,0 +1,12 @@
+#90-custom-keyboard-xcvb.hwdb
+
+# use fn + z,x,c or b as arrow in vim
+
+#evdev:input:b0003v05ACp024Fe0111* JUST AN EXAMPLE
+
+# CHANGE ONLY THIS ONE LINE BELOW!
+evdev:input:bAAAAvBBBBpCCCCeDDDD*
+ KEYBOARD_KEY_c018a=left
+ KEYBOARD_KEY_c0194=down
+ KEYBOARD_KEY_c0223=up
+ KEYBOARD_KEY_c0192=right 

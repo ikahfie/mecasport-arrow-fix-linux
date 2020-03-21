@@ -1,0 +1,18 @@
+# 90-custom-keyboard-hjkl.hwdb 
+
+# use vim style keys + fn code as arrow and
+# also use z,x,c, and b as volume control
+
+#evdev:input:b0003v05ACp024Fe0111* JUST AN EXAMPLE
+
+# CHANGE ONLY THIS ONE LINE BELOW!
+evdev:input:bAAAAvBBBBpCCCCeDDDD*
+ KEYBOARD_KEY_c018a=playpause
+ KEYBOARD_KEY_c0194=mute
+ KEYBOARD_KEY_c0223=volumedown
+ KEYBOARD_KEY_c0192=volumeup
+ KEYBOARD_KEY_c00e2=up
+ KEYBOARD_KEY_c00e9=right
+ KEYBOARD_KEY_c00b5=left
+ KEYBOARD_KEY_c00ea=down
+
